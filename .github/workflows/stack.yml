@@ -1,3 +1,5 @@
+name: Profile Stack
+
 on:
   push:
     branches:
