@@ -1,7 +1,8 @@
 
 👋🏼 Hello! 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
+
+<img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/LjPYqJdZjMl7G/giphy.gif" />
 
 ## I'm a Programming Student  
 
@@ -11,6 +12,8 @@
 - ⚡ Fun fact: I'm a trained chef and music composer 🎱. You can see some of my work [here](https://www.youtube.com/channel/UCOJLc_BTPc2Yq8sJxDOCsog)
 
 ---
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
 
 ### Spotify Playing 🎧
 
