@@ -14,3 +14,19 @@
     <br>
     Not including Private Repositories
 </div>
+
+name: Profile Stack
+
+on: [push]
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Matt-Gleich/profile_stack@master
+        with:
+          path: config/stack.yml
+          badges: false
+          technology_emoji: 👨🏻‍💻
+          project_emoji: ✨
