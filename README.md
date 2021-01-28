@@ -5,9 +5,20 @@
 
 👋🏼 Hello! I've always enjoyed working with technology, ever since I was a little kid. In 2020 I gave up my career as a chef to start to learn programming, and it has been great ever since. The first project I ever worked on was for a fictional sushi restaurant ["The Sakoi"](https://cachemegifyoucan.github.io/SakoiWebsite/). Since then I have been fascinated with web development and programming, trying to learn and build as much as possible. Currently I am studying at [@Microverse](https://www.microverse.org) to become a Full Stack Developer. Besides programming I enjoy [📷 Music](https://www.youtube.com/channel/UCOJLc_BTPc2Yq8sJxDOCsog), Muay Thai, 🚶🏼‍♂️ hiking, and hanging out with friends.
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
+
+## I'm a Programming Student  
+
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I'm a trained chef and music composer 🎱.
+
+---
+
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1132539527)
 
 ---
 
