@@ -1,9 +1,5 @@
-<div align="center">
-<img src="memories.png">
-</div>
 
-
-👋🏼 Hello! I've always enjoyed working with technology, ever since I was a little kid. In 2020 I gave up my career as a chef to start to learn programming, and it has been great ever since. The first project I ever worked on was for a fictional sushi restaurant ["The Sakoi"](https://cachemegifyoucan.github.io/SakoiWebsite/). Since then I have been fascinated with web development and programming, trying to learn and build as much as possible. Currently I am studying at [@Microverse](https://www.microverse.org) to become a Full Stack Developer. Besides programming I enjoy [📷 Music](https://www.youtube.com/channel/UCOJLc_BTPc2Yq8sJxDOCsog), Muay Thai, 🚶🏼‍♂️ hiking, and hanging out with friends.
+👋🏼 Hello! 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
 
@@ -11,8 +7,8 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I'm a trained chef and music composer 🎱.
+- 💪🏼 I enjoy hiking, Muay Thai, and hanging out with friends.
+- ⚡ Fun fact: I'm a trained chef and music composer 🎱. You can see some of my work [here](https://www.youtube.com/channel/UCOJLc_BTPc2Yq8sJxDOCsog)
 
 ---
 
@@ -26,10 +22,8 @@
 
 ### Contact with me 📝
 
-
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="marcus | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin](https://www.linkedin.com/in/marcusa999/)
+[<img align="left" alt="marcus | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram](https://www.instagram.com/marc_grant66/)
 
 <br />
 
