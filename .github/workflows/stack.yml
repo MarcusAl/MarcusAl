@@ -1,9 +1,6 @@
 name: Profile Stack
 
-on:
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   profile_stack:
@@ -11,3 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: Matt-Gleich/profile_stack@master
+        with:
+          path: config/stack.yml
+          badges: false
+          technology_emoji: 👨🏻‍💻
+          project_emoji: ✨
