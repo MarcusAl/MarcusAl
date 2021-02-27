@@ -4,6 +4,13 @@
 
 <img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/LjPYqJdZjMl7G/giphy.gif" />
 
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
+---
+
 ## Marcus Allen 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -18,13 +25,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/4pFBftw1v1973rAJ89iKEq)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
----
 
 <div align="center">
     Here are some of my GitHub stats:
