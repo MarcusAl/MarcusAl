@@ -20,12 +20,6 @@
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/4pFBftw1v1973rAJ89iKEq)
-
 <div align="center">
     Here are some of my GitHub stats:
     <br>
@@ -58,3 +52,11 @@
 <img align="left" alt="marcus | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /> [Instagram](https://www.instagram.com/marc_grant66/)
 
 <br />
+
+---
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/4pFBftw1v1973rAJ89iKEq)
