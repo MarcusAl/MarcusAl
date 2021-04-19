@@ -6,7 +6,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-[![Profile badge](https://www.codewars.com/users/CacheMeGifYouCan/badges/large)](https://www.codewars.com/users/CacheMeGifYouCan)
+[![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
 
 ---
@@ -23,7 +23,7 @@
 <div align="center">
     Here are some of my GitHub stats:
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=CacheMeGifYouCan&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcusal&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
     <br>
     Not including Private Repositories
 </div>
