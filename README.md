@@ -4,7 +4,13 @@
 
 <img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/LjPYqJdZjMl7G/giphy.gif" />
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
+
+<div align="left">
+
+[![MarcusAl - MarcusAl](https://img.shields.io/static/v1?label=MarcusAl&message=Repositories&color=blue&logo=github)](https://github.com/MarcusAl?tab=repositories)
+
+</div>
 
 [![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
@@ -20,25 +26,26 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
     Here are some of my GitHub stats:
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=marcusal&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
     <br>
     Not including Private Repositories
-</div>
+</div> -->
 
 ### Some of the technologies I have worked with-</br>
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Ruby](https://img.shields.io/badge/-Ruby-61DAFB?style=flat-square&logo=ruby&logoColor=ffffff)
+![Rails](https://img.shields.io/badge/-Rails-61DAFB?style=flat-square&logo=rails&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
@@ -55,7 +62,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" /> -->
 
 ### Spotify Playing 🎧
 
