@@ -1,5 +1,4 @@
 
-👋🏼 Hello! 
 
 
 <img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/LjPYqJdZjMl7G/giphy.gif" />
@@ -9,15 +8,17 @@
 <div align="left">
 
 [![MarcusAl - MarcusAl](https://img.shields.io/static/v1?label=MarcusAl&message=Repositories&color=blue&logo=github)](https://github.com/MarcusAl?tab=repositories)
+    
+[![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
 </div>
-
-[![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
 
 ---
 
 ## Marcus Allen 
+
+👋🏼 Hello! 
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Ruby etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
