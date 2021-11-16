@@ -39,7 +39,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-ReactNative-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Rails](https://img.shields.io/badge/-Rails-61DAFB?style=flat-square&logo=rails&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-61DAFB?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
