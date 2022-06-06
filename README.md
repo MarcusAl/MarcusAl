@@ -20,10 +20,10 @@
 
 👋🏼 Hello! 
 
-- 👨‍💻 I’m currently working on web development technologies like Ruby, React Native etc.
+- 👨‍💻 I’m currently working on web development technologies like Rails, AWS, React Native etc.
 - 📚 Still learning daily about Frontend and Backend technologies 😅
 - 💪🏼 I enjoy hiking, Muay Thai, and hanging out with friends.
-- ⚡ Fun fact: I'm a trained chef and music composer 🎱. You can see some of my work [here](https://www.youtube.com/channel/UCOJLc_BTPc2Yq8sJxDOCsog)
+- ⚡ Fun fact: I'm a trained chef
 
 ---
 
