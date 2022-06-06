@@ -27,13 +27,13 @@
 
 ---
 
-<!-- <div align="center">
+<div align="center">
     Here are some of my GitHub stats:
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=marcusal&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
     <br>
     Not including Private Repositories
-</div> -->
+</div>
 
 ### Some of the technologies I have worked with-</br>
 
@@ -54,10 +54,10 @@
 ### Contact me 📝
 
 <a href="https://www.linkedin.com/in/marcusa999/" target="_blank">
-    <img  alt="LinkedIn" width="35%" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+    <img  alt="LinkedIn" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 </a>
 <a href="https://www.instagram.com/marc_grant66/" target="_blank">
-    <img  alt="Instagram" width="40%" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />
+    <img  alt="Instagram" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />
 </a>
 
 <br />
