@@ -53,9 +53,12 @@
 
 ### Contact me 📝
 
-    
-<img  alt="marcus | LinkedIn" width="35%" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />(https://www.linkedin.com/in/marcusa999/)
-<img  alt="marcus | Instagram" width="40%" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" /> [Instagram](https://www.instagram.com/marc_grant66/)
+<a href="https://www.linkedin.com/in/marcusa999/">
+    <img  alt="marcus | LinkedIn" width="35%" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+</a>
+<a href="https://www.instagram.com/marc_grant66/">
+    <img  alt="marcus | Instagram" width="40%" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />
+</a>
 
 <br />
 
