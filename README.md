@@ -20,8 +20,8 @@
 
 👋🏼 Hello! 
 
-- 👨‍💻 I’m currently working on web development technologies like Rails, AWS, React Native, Vue etc.
-- 📚 Still learning daily about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working utilising technologies like Rails, AWS, React Native, Vue.js etc.
+- 📚 Enjoy working on all aspects of full stack development, and learning new frameworks 😄
 - 💪🏼 I enjoy hiking, Muay Thai, and hanging out with friends.
 - ⚡ Fun fact: I'm a trained chef
 
