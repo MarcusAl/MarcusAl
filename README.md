@@ -1,9 +1,6 @@
 
 
-
-<img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/LjPYqJdZjMl7G/giphy.gif" />
-
-<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <div align="left">
 
@@ -39,9 +36,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-ReactNative-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vuejs](https://img.shields.io/badge/-Vue-%23F7DF1C?style=flat-square&logo=vuejs&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Rails](https://img.shields.io/badge/-Rails-61DAFB?style=flat-square&logo=rails&logoColor=ffffff)
+![React](https://img.shields.io/badge/-ReactNative-%23F7DF1C?style=flat-square&logo=react&logoColor=000000&labelColor=%23F05032&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue-%23F7DF1C?style=flat-square&logo=vue.js&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vitest](https://img.shields.io/badge/-Vitest-%23F7DF1C?style=flat-square&logo=vitest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Terraform](https://img.shields.io/badge/-Terraform-%23F7DF1C?style=flat-square&logo=terraform&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Linux](https://img.shields.io/badge/-Linux-%23F7DF1C?style=flat-square&logo=linux&logoColor=000000&labelColor=%23F05032&color=%23FFCE5A)
+![RubyOnRails](https://img.shields.io/badge/-Rails-61DAFB?style=flat-square&logo=rubyonrails&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-61DAFB?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
