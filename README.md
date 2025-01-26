@@ -5,8 +5,6 @@
 <div align="left">
 
 [![MarcusAl - MarcusAl](https://img.shields.io/static/v1?label=MarcusAl&message=Repositories&color=blue&logo=github)](https://github.com/MarcusAl?tab=repositories)
-    
-[![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
 </div>
 
@@ -17,22 +15,15 @@
 
 👋🏼 Hello! 
 
-- 👨‍💻 I’m currently working utilising technologies like Rails, AWS, React Native, Vue.js etc.
-- 📚 Enjoy working on all aspects of full stack development, and learning new frameworks 😄
-- 💪🏼 I enjoy hiking, Muay Thai, and hanging out with friends.
+- 👨‍💻 As a creative problem-solver, I thrive on
+delivering quality solutions through full-stack
+development, in agile workflows. I apply my
+skills to both B2B and B2C contexts.
 - ⚡ Fun fact: I'm a trained chef
 
 ---
 
-<div align="center">
-    Here are some of my GitHub stats:
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=marcusal&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
-    <br>
-    Not including Private Repositories
-</div>
-
-### Some of the technologies I have worked with-</br>
+### Familiar technologies </br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -61,6 +52,14 @@
 ---
 
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" /> -->
+
+<div align="center">
+    Here are some of my GitHub stats:
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=marcusal&show_icons=true&theme=radical&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
+    <br>
+    Not including Private Repositories
+</div>
 
 ### Spotify Playing 🎧
 
